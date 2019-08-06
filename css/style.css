@@ -1,0 +1,9 @@
+.slider h3,
+.slider h5 {
+    text-shadow: 0, 0, 0, rgba(0.5)
+}
+
+.parallax-container
+{
+    height: 240px;
+}
